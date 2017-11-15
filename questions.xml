@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<assessmentItems>
+	<assessmentItem complexity="3" subject="mikologia">
+		<itemBody> 
+			<p>Zein Amanita da jangarria?</p>
+		</itemBody>
+		<correctResponse>
+			<value>Caesarea</value>
+		</correctResponse>
+		<incorrectResponses>
+			<value>Phalloides</value>
+			<value>Muscaria</value>
+			<value>Virosa</value>
+		</incorrectResponses>
+	</assessmentItem>
+	<assessmentItem complexity="3" subject="mikologia">
+		<itemBody> 
+			<p>Tripakiek zer dute kapela azpian?</p>
+		</itemBody>
+		<correctResponse>
+			<value>Eztenak</value>
+		</correctResponse>
+		<incorrectResponses>
+			<value>Filamenduak</value>
+			<value>Himenioa</value>
+			<value>Hodiak</value>
+		</incorrectResponses>
+	</assessmentItem>
+	<assessmentItem complexity="5" subject="mikologia">
+		<itemBody>
+			<p>Eranztuna du</p>
+		</itemBody>
+		<correctResponse>
+			<value>Galanpernak</value>
+		</correctResponse>
+		<incorrectResponses>
+			<value>Gibel urdinak</value>
+			<value>Esnegorriak</value>
+			<value>Errotariak</value>
+		</incorrectResponses>
+	</assessmentItem>
+<assessmentItem complexity="3" subject="Identifikazioa"><itemBody><p>Zein da egilearen izena?</p></itemBody><correctResponse><value>Ricardo</value></correctResponse><incorrectResponse><value>Juan</value><value>Eduardo</value><value>Fernando</value></incorrectResponse></assessmentItem><assessmentItem complexity="5" subject="Proba fire"><itemBody><p>Firefox proba ondo joango da?</p></itemBody><correctResponse><value>Bai</value></correctResponse><incorrectResponse><value>Ez</value><value>Akatsekin</value><value>Oso gaizki</value></incorrectResponse></assessmentItem><assessmentItem complexity="5" subject="Proba fire"><itemBody><p>Firefox proba ondo joango da?</p></itemBody><correctResponse><value>Bai</value></correctResponse><incorrectResponse><value>Ez</value><value>Akatsekin</value><value>Oso gaizki</value></incorrectResponse></assessmentItem><assessmentItem complexity="4" subject="localproba"><itemBody><p>DBko proba lab4 funtzionatzen du?</p></itemBody><correctResponse><value>Bai</value></correctResponse><incorrectResponse><value>Ez</value><value>Akatsekin</value><value>Oso gaizki</value></incorrectResponse></assessmentItem><assessmentItem complexity="4" subject="localproba"><itemBody><p>DBko proba lab4 funtzionatzen du?</p></itemBody><correctResponse><value>Bai</value></correctResponse><incorrectResponse><value>Ez</value><value>Akatsekin</value><value>Oso gaizki</value></incorrectResponse></assessmentItem><assessmentItem complexity="4" subject="localproba XML"><itemBody><p>XMLko proba lab4 funtzionatzen du?</p></itemBody><correctResponse><value>Bai</value></correctResponse><incorrectResponse><value>Ez</value><value>Akatsekin</value><value>Oso gaizki</value></incorrectResponse></assessmentItem><assessmentItem complexity="4" subject="Azken Proba"><itemBody><p>Azken proba hau sartzen du DB-n eta XML-n?</p></itemBody><correctResponse><value>Bai</value></correctResponse><incorrectResponse><value>Ez</value><value>Erdizka</value><value>Ez dakit begiratzen "jajaja"</value></incorrectResponse></assessmentItem><assessmentItem complexity="3" subject="Identifikazioa"><itemBody><p>Zein da egilearen izena?</p></itemBody><correctResponse><value>Ricardo</value></correctResponse><incorrectResponse><value>Juan</value><value>Eduardo</value><value>Fernando</value></incorrectResponse></assessmentItem><assessmentItem complexity="4" subject="Proba ajax"><itemBody><p>Proba hau funtzionatuko du ajax?</p></itemBody><correctResponse><value>Bai</value></correctResponse><incorrectResponse><value>Ez</value><value>Akatsekin</value><value>Oso gaizki</value></incorrectResponse></assessmentItem><assessmentItem complexity="4" subject="Proba ajax 2"><itemBody><p>Proba hau funtzionatuko du ajax 2?</p></itemBody><correctResponse><value>Bai</value></correctResponse><incorrectResponse><value>Ez</value><value>Akatsekin</value><value>Oso gaizki</value></incorrectResponse></assessmentItem><assessmentItem complexity="4" subject="Proba ajax 3"><itemBody><p>Proba hau funtzionatuko du ajax 3 ?</p></itemBody><correctResponse><value>Bai</value></correctResponse><incorrectResponse><value>Ez</value><value>Akatsekin</value><value>Oso gaizki</value></incorrectResponse></assessmentItem><assessmentItem complexity="3" subject="Identifikazioa"><itemBody><p>Zein da egilearen abizena?</p></itemBody><correctResponse><value>Herradura</value></correctResponse><incorrectResponse><value>Fernandez</value><value>Gonzalez</value><value>Hernandez</value></incorrectResponse></assessmentItem><assessmentItem complexity="3" subject="zer moduz"><itemBody><p>Zer moduz zabiltza?</p></itemBody><correctResponse><value>Ondo</value></correctResponse><incorrectResponse><value>Gaizki</value><value>Erdizka</value><value>Ez daki ez du erantzuten</value></incorrectResponse></assessmentItem><assessmentItem complexity="5" subject="Proba funtzioa"><itemBody><p>Noizbait funtzionatuko du?</p></itemBody><correctResponse><value>Oraingoan</value></correctResponse><incorrectResponse><value>Inoiz</value><value>Bihar</value><value>Denboraz kanpo</value></incorrectResponse></assessmentItem><assessmentItem complexity="3" subject="Identifikazioa"><itemBody><p>Zein da egilearen izena?</p></itemBody><correctResponse><value>Ricardo</value></correctResponse><incorrectResponse><value>Juan</value><value>Eduardo</value><value>Fernando</value></incorrectResponse></assessmentItem><assessmentItem complexity="3" subject="Proba fire"><itemBody><p>Segurtasuna funtzionatzen du hemen?</p></itemBody><correctResponse><value>Bai</value></correctResponse><incorrectResponse><value>Ez</value><value>Akatsekin</value><value>Oso gaizki</value></incorrectResponse></assessmentItem><assessmentItem complexity="3" subject="Identifikazioa"><itemBody><p>Zein da egilearen izena?</p></itemBody><correctResponse><value>Ricardo</value></correctResponse><incorrectResponse><value>Juan</value><value>Eduardo</value><value>Oso gaizki</value></incorrectResponse></assessmentItem></assessmentItems>
